@@ -1,74 +1,72 @@
-A continuación una lista:
+\# Aprendiendo Markdown 
 
 
 
-&#x20;\* Item 1
-
-&#x20;\* Item 2
-
-&#x20;\* Item 2.A
-
-&#x20;\* Item 2.B
-
-&#x20;\* Item 3
+Mis primeros pasos en \*\*Markdown\*\*, que es un \*formato\* de \*\*\*marcado de archivos de texto\*\*\*.
 
 
 
-A continuación una tabla:
+A continuacion una \_\_lista\_\_:
 
 
 
-| Codigo | Nombre | Precio |
+\* Item 1 
 
-| --- | --- | --- |
+\* Item 2 
 
-| 1 | TV | 784.23 |
+&#x20; \* Item 2.A
 
-| 2 | Computador | 1321.99 |
+&#x20; \* Item 2.B
 
-| 3 | Celular | 433.45 |
+\* Item 3
 
-
-
-A continuación un enlace o link:
+A continuacion una tabla \_\_\_tabla\_\_\_:
 
 
 
-\[Diario El Comercio](https://elcomercio.com)
+
+
+|Codigo| Nombre |Precio|
+
+| :-: | - | -: |
+
+|1 | TV | 784.23 |
+
+|2 | Computador | 1321.99 |
+
+|3 | Celular | 433.45 |
 
 
 
-A continuación una imagen:
+A continuacion un \_enlace\_ o link:
 
 
 
-!\[Icono de Java](https://pngwing.com)
+\[Diario El Comercio](https://www.elcomercio.com/)
 
 
 
-\# Título de nivel 1
-
-\## Título de nivel 2
-
-\### Título de nivel 3
+A continuacion una \_\_imagen\_\_:
 
 
 
-A continuación un \*\*código de fuente de programa\*\*:
+!\[Icono de Java](https://w7.pngwing.com/pngs/837/18/png-transparent-logo-java-runtime-environment-programming-language-runtime-system-oracle-text-logo-desktop-wallpaper.png)
 
 
 
-```java
+\# Titulo de nivel 1
 
-public class HolaMundo {
+\## Tirulo de nivel 2
 
-// Tu código aquí
+\### Tiutulo de nivel 3
 
-}
 
-```
+
+A continuacion un \*\*codigo de fuente de programa\*\*:
+
+
+
+&#x20; public class HolaMundo {
 
 Fin
-
-
 
