@@ -1,58 +1,68 @@
-Mis primeros pasos en Markdown, que es un formato de marcado de archivos de texto.
+A continuación una lista:
+
+\* Item 1
+
+\* Item 2
+
+\* Item 2.A
+
+\* Item 2.B
+
+\* Item 3
 
 
 
-A continuacion una lista:
+A continuación una tabla:
 
 
 
-Item 1
+| Codigo | Nombre | Precio |
 
-Item 2
+| --- | --- | --- |
 
-Item 2.A
+| 1 | TV | 784.23 |
 
-Item 2.B
+| 2 | Computador | 1321.99 |
 
-Item 3 A continuacion una tabla tabla:
-
-Codigo	Nombre	Precio
-
-1	TV	784.23
-
-2	Computador	1321.99
-
-3	Celular	433.45
-
-A continuacion un enlace o link:
+| 3 | Celular | 433.45 |
 
 
 
-Diario El Comercio
+A continuación un enlace o link:
+
+\[Diario El Comercio](https://elcomercio.com)
 
 
 
-A continuacion una imagen:
+A continuación una imagen:
+
+!\[Icono de Java](https://pngwing.com)
 
 
 
-Icono de Java
+\# Título de nivel 1
+
+\## Título de nivel 2
+
+\### Título de nivel 3
 
 
 
-Titulo de nivel 1
-
-Tirulo de nivel 2
-
-Tiutulo de nivel 3
-
-A continuacion un codigo de fuente de programa:
+A continuación un \*\*código de fuente de programa\*\*:
 
 
 
-public class HolaMundo { Fin
+```java
 
+public class HolaMundo {
 
+// Tu código aquí
+
+}
+
+```
+
+Fin
 
 
 
