@@ -2,9 +2,9 @@ A continuación una lista:
 
 \* Item 1
 
-\* Item 2
+&#x20; \* Item 2
 
-\* Item 2.A
+&#x20; \* Item 2.A
 
 \* Item 2.B
 
