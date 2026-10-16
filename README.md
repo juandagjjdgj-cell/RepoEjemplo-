@@ -1,14 +1,16 @@
 A continuación una lista:
 
-\* Item 1
 
-&#x20; \* Item 2
 
-&#x20; \* Item 2.A
+&#x20;\* Item 1
 
-\* Item 2.B
+&#x20;\* Item 2
 
-\* Item 3
+&#x20;\* Item 2.A
+
+&#x20;\* Item 2.B
+
+&#x20;\* Item 3
 
 
 
@@ -30,11 +32,15 @@ A continuación una tabla:
 
 A continuación un enlace o link:
 
+
+
 \[Diario El Comercio](https://elcomercio.com)
 
 
 
 A continuación una imagen:
+
+
 
 !\[Icono de Java](https://pngwing.com)
 
